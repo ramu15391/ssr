@@ -13,6 +13,7 @@ function template(title, initialState = {}, content = ""){
   let page = `<!DOCTYPE html>
               <html lang="en">
               <head>
+                <meta name="google-site-verification" content="jdP7wAJ6_xfRcaMsR6UAxWhczFd5lKZvUuIoMbcmseo" />
                 <meta charset="utf-8">
                 <title> ${title} </title>
                 <link href="assets/style.css" rel="stylesheet">
